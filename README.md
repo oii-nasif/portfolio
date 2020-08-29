@@ -1,2 +1,2 @@
 <!-- Header -->
-<img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/portfolio/master/images/git_header.gif">
+<img alt="Hello, I'm Nasif. " src="images/git header.gif">
